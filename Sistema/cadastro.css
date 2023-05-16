@@ -1,0 +1,272 @@
+
+html{
+
+    height: 150%;
+
+
+}
+
+
+body{
+
+        background-image: linear-gradient(to bottom, rgba(116, 6, 172, 0.789), rgb(9, 141, 207), rgb(78, 70, 70));
+
+}
+
+
+form{
+    height: 650px;
+    width: 530px;
+    left: 422px;
+    top: 54px;
+    border-radius: 0px;
+    
+/* Rectangle 1 */
+
+
+position: absolute;
+left: 35%;
+right: 32.2%;
+top: 7.03%;
+bottom: 23.57%;
+
+background-image: linear-gradient(to bottom, rgb(49, 63, 213) , rgb(129, 209, 32));
+
+
+
+}
+
+
+
+        .Usuario{
+            height: 114px;
+width: 206px;
+left: 555px;
+top: 47px;
+border-radius: 0px;
+
+            
+
+
+            /* Rectangle 6 */
+
+height: 250px;
+position: absolute;
+width: 240px;
+left: calc(48% - 206px/2 - 2px);
+top: 0%;
+bottom: 79.04%;
+   
+
+        }
+
+
+        .Nome{
+
+            height: 44px;
+    width: 111px;
+    left: 604px;
+    top: 139px;
+    border-radius: nullpx;
+
+    position: absolute;
+    width: 111px;
+    height: 44px;
+    left: calc(50% - 111px/2 - 0.5px);
+    top: calc(55% - 44px/2 - 223px);
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #0C0B0B;
+
+
+        }
+
+
+        .cxNome{
+
+            height: 40px;
+            width: 400px;
+            left: 459.5px;
+            top: 185px;
+            border-radius: 0px;
+            
+            /* Rectangle 2 */
+
+
+            position: absolute;
+        width: 400px;
+        left: calc(50% - 400px/2 - 0.5px);
+        top: 24.09%;
+        bottom: 70.7%;
+
+        background-image: linear-gradient(to bottom, rgb(172, 70, 70) , rgb(200, 145, 34));
+
+        }
+
+     .E-mail{
+
+        height: 44px;
+    width: 117px;
+    left: 602px;
+    top: 226px;
+    border-radius: nullpx;
+
+    /* E-mail: */
+
+
+    position: absolute;
+    width: 117px;
+    left: calc(50% - 117px/2 + 0.5px);
+    top: 31%;
+    bottom: 64.84%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #070606;
+
+
+     }
+
+     .cxE-mail{
+        height: 40px;
+        width: 400px;
+        left: 459px;
+        top: 269px;
+        border-radius: 0px;
+        
+
+        /* Rectangle 3 */
+
+
+    position: absolute;
+    width: 400px;
+    left: calc(50% - 400px/2 - 1px);
+    top: 37%;
+    bottom: 59.77%;
+
+    background-image: linear-gradient(to bottom, rgb(172, 70, 70) , rgb(200, 145, 34));
+
+
+     }
+
+
+
+
+     .Senha{
+        height: 44px;
+        width: 117px;
+        left: 602px;
+        top: 311px;
+        border-radius: nullpx;
+        
+        /* Senha: */
+
+
+        position: absolute;
+        width: 117px;
+        left: calc(50% - 117px/2 + 0.5px);
+        top: 44%;
+        bottom: 53.78%;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 44px;
+        /* identical to box height */
+
+
+        color: #100D0D;
+        
+
+
+     }
+
+
+     .Cxsenha{
+        height: 40px;
+        width: 400px;
+        left: 459px;
+        top: 355px;
+        border-radius: 0px;
+        
+        /* Rectangle 4 */
+
+
+        position: absolute;
+        width: 400px;
+        left: calc(50% - 400px/2 - 1px);
+        top: 50%;
+        bottom: 48.57%;
+
+        background-image: linear-gradient(to bottom, rgb(172, 70, 70) , rgb(200, 145, 34));
+
+
+
+
+     }
+
+
+     .Cadastro{
+            height: 43px;
+            width: 317px;
+            left: 502px;
+            top: 415px;
+            border-radius: 0px;
+        
+            /* Rectangle 5 */
+
+
+        position: absolute;
+        width: 317px;
+        left: calc(50% - 317px/2 + 0.5px);
+        top: 58%;
+        bottom: 40.36%;
+
+        background-image: linear-gradient(to bottom, rgb(172, 70, 70) , rgb(200, 145, 34));
+
+     }
+
+
+     .Marcapessoal{
+
+        height: 300px;
+        width: 300px;
+        left: 737px;
+        top: 458px;
+        border-radius: 0px;
+
+
+        /* Rectangle 7 */
+
+
+        
+        position: absolute;
+        left: 52.83%;
+        right: 27.58%;
+        top: 59%;
+        bottom: 19.4%;
+        
+
+
+        
+     }
+
+
+
+
+
+
