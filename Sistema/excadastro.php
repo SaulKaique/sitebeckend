@@ -25,7 +25,7 @@
                 <input class="cxE-mail" type="text" name="E-mail" id="E-mail">
         
                 <label class="Senha" for="Senha">Senha</label>
-               <input  class="Cxsenha"  type="password" name="Cxsenha" id="">
+               <input  class="Cxsenha"  type="password" name="Cxsenha" id="Senha">
 
                 
                 <input class="Cadastro" type="submit" value="Cadastro">
